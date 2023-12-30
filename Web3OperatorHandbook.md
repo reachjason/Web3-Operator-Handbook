@@ -14,7 +14,7 @@ Somehow, time and again, we find ourselves in the same cycles committing similar
 
 Secondly, web3 has presented a sense of non-linearity for careers across the world. In democratising access to industry and capital, there are ample non-traditional success stories. With people training hard, and finding their footing in this evolving wild wild west. Through this body of content, we want to enable more high school students from villages across Indonesia to ship meaningful crypto products and offer level ground for people to start in crypto.
 
-The book can be used well by people looking to break into crypto as well as founders, operators and investors in crypto that are looking to level up. For all 
+The book can be used well by people looking to break into crypto as well as founders, operators and investors in crypto that are looking to level up. You don't need to have a technical background in order to take action on this body of content.
 
 For the sake of this book, here’s a couple of things I want to share as we begin:
 
