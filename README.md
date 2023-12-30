@@ -5,7 +5,10 @@ New updates are constantly pushed
 
 If you see something that needs revision or elaboration, please feel free to add issues or submit pull requests.
 
-Here's the link to the [Web3 Operator Community](https://t.me/web3operator)
+Here's the link to the [Web3 Operator Community](https://t.me/web3operator).
 
 # About Jason
 [LinkedIn](https://linkedin.com/in/jasonrrodrigues) | [Twitter](https://twitter.com/JasonRogues)
+
+# License TL;DR
+Please redistribute, make copies or changes. Don't resell, try and keep my name/attribution attached, and please keep future versions open under a similar/the same license.
