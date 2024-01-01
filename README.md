@@ -10,6 +10,14 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator).
 # About Jason
 [LinkedIn](https://linkedin.com/in/jasonrrodrigues) | [Twitter](https://twitter.com/JasonRogues)
 
+# Chapters
++ Chapter 1: [Introduction](https://github.com/reachjason/Web3-Operator-Handbook/blob/main/Web3OperatorHandbook.md)
++ Chapter 2: Web3 Primer
++ Chapter 3: Why build in crypto?
++ Chapter 4: Layers of Operation
++ Chapter 5: Building a successful crypto startup
++ Chapter 6: Community Building
+
 # Contributing
 We appreciate the love and support of the community that made putting this together possible.
 
