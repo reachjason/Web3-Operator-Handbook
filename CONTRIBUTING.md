@@ -2,6 +2,8 @@
 
 This book is developed collaboratively and openly, here on GitHub. We accept comments, contributions and corrections from all.
 
+All the contributors are listed in Contributors.md. Please be sure to add your name there if you're making a contribution.
+
 ## License and attribution
 
 All contributions must be properly licensed and attributed. If you are contributing your own original work, then you are offering it under a CC-BY license (Creative Commons Attribution). You are responsible for adding your own name or pseudonym as attribution for your contribution.
