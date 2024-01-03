@@ -11,12 +11,85 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator).
 [LinkedIn](https://linkedin.com/in/jasonrrodrigues) | [Twitter](https://twitter.com/JasonRogues)
 
 # Chapters
-+ Chapter 1: [Introduction](https://github.com/reachjason/Web3-Operator-Handbook/blob/main/Web3OperatorHandbook.md)
-+ Chapter 2: Web3 Primer
-+ Chapter 3: Why build in crypto?
-+ Chapter 4: Layers of Operation
-+ Chapter 5: Building a successful crypto startup
-+ Chapter 6: Community Building
++ [Introduction](https://github.com/reachjason/Web3-Operator-Handbook/blob/main/Web3OperatorHandbook.md)
+  + Introduction
+  + Outline
++ Web3 Primer
+  + Why Web3 matters?
+  + Crash Course
+  + Tokens
++ Why build in crypto?
++ Layers of Operation
++ Tokenomics
+  + Managing Tokens
+  + Buy backs
++ Building a crypto startup
+  + Decentralization
+  + Self-custody
++ Fundraising
+  + Managing Investors
++ Community Building
++ Breaking into Crypto
++ Managing Teams
+  + Staying Abreast
+  + Leadership Principles
+  + Decision Making
+  + Remote Management
+  + Choosing Work Stacks
+  + Quarterly Plotting
+  + Setting a Compelling Vision
+  + DAOs
++ Scaling
+  + Board of Directors
+  + Annual Letter
+  + Exit to Community
++ Layers & Stakeholders
++ Engineering
++ Product
+  + Shipping
+  + Choosing what to build
+  + Grants vs In house
+  + Navigating PMF in Crypto
+  + Metrics
++ Brand Building
+  + Elevating from Tribalism
+  + Narrative Building
++ Events
++ Communication
++ Navigating Legal Landscape
++ Ecosystem
++ People
+  + Hiring
+  + Recruitment
+  + Onboarding
+  + Offboarding
++ Growth
+  + Expansion Strategies
++ Grants
+  + Program Playbook
+  + Allocator Mindset
+  + Tracking
+  + Forecasting
+  + Bonus: How to grants?
++ Giving Back
++ Building a Base Layer
+  + Protocol Sustainability
++ Building a DApp
+  + Stablecoin
+  + NFTs
+  + DeFi
++ Developer Persona
+  + Developer Relations
++ Managing Open Source
++ Selling to Enterprise  
++ Product Led Growth
++ Publicly Traded Companies
+  + Playbooks
++ Best Practices
++ Studying Crashes, Hacks & Lawsuits
++ References
++ Glossary
++ Templates
 
 # Contributing
 We appreciate the love and support of the community that made putting this together possible.
