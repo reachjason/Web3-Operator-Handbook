@@ -7,9 +7,6 @@ If you see something that is missing or needs revision or elaboration, please fe
 
 Here's the link to the [Web3 Operator Community](https://t.me/web3operator).
 
-# About Jason
-[LinkedIn](https://linkedin.com/in/jasonrrodrigues) | [Twitter](https://twitter.com/JasonRogues)
-
 # Chapters
 + [Introduction](https://github.com/reachjason/Web3-Operator-Handbook/blob/main/Web3OperatorHandbook.md)
   + Introduction
@@ -78,6 +75,7 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator).
   + Stablecoin
   + NFTs
   + DeFi
+  + Category Definers
 + Developer Persona
   + Developer Relations
 + Managing Open Source
@@ -89,7 +87,9 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator).
 + Studying Crashes, Hacks & Lawsuits
 + References
 + Glossary
-+ Templates
++ Resources
+  + Templates
+  + Checklists
 
 # Contributing
 We appreciate the love and support of the community that made putting this together possible.
@@ -97,6 +97,9 @@ We appreciate the love and support of the community that made putting this toget
 To contribute to this book, see CONTRIBUTING.md. Please make sure you're contributions are sufficiently original. You must include your own attribution in the pull request.
 
 If you know how to make a pull request to contribute a fix, please write the correction and use a pull request to submit it for consideration against the develop branch. If you are making several changes, please use a separate commit for each to make it easier to cherry-pick or resolve conflicts. Otherwise, please submit an issue, explaining the error or comment. If you would like to contribute extensive changes or new material, please let DM Jason on [Twitter](https://twitter.com/JasonRogues).
+
+# About Jason
+[LinkedIn](https://linkedin.com/in/jasonrrodrigues) | [Twitter](https://twitter.com/JasonRogues)
 
 # License TL;DR
 Please redistribute, make copies or changes. Don't resell, try and keep my name/attribution attached, and please keep future versions open under a similar/the same license.
