@@ -37,6 +37,7 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to d
   + Managing Investors
   + Crypto VCs
   + SAFTs & Token Warrants
+  + Navigating Cycles
 + Building Community
   + Local
   + Ethos
@@ -58,6 +59,10 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to d
   + Annual Letter
   + Exit to Community
 + Layers & Stakeholders
+  + Base
+  + Dapps
+  + Services
+  + Infrastructure
 + Engineering
 + Product
   + Shipping
@@ -143,6 +148,9 @@ To contribute to this book, see CONTRIBUTING.md. Please make sure you're contrib
 If you know how to make a pull request to contribute a fix, please write the correction and use a pull request to submit it for consideration against the develop branch. If you are making several changes, please use a separate commit for each to make it easier to cherry-pick or resolve conflicts. Otherwise, please submit an issue, explaining the error or comment. If you would like to contribute extensive changes or new material, please let DM Jason on [Twitter](https://twitter.com/JasonRogues).
 
 # About Jason
+
+Jason also has built programs for founders such as accelerators, incubators and hackathons that over 1000 startups have applied to in the past. Additionally, he lectures a course on crypto at Miami University and Paris Dauphine University. He is also a mentor at the Wharton Accelerator, Plug and Play Technology, Blockchain Founders Fund and others. He's been plugged into crypto for over 8 years and has been building and operating.
+
 [LinkedIn](https://linkedin.com/in/jasonrrodrigues) | [Twitter](https://twitter.com/JasonRogues)
 
 # License TL;DR
