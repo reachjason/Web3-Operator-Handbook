@@ -1,5 +1,5 @@
 # Web3 Operator Handbook
-This repository contains notes from 100s of successful operators in crypto as well as best practices across the industry.
+This repository contains notes from conversations with 100s of successful operators and studying several successful projects in crypto.
 
 New updates are constantly pushed, please feel free to star or watch the repository. I am in the process of pushing from personal Drive to here.
 
