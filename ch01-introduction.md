@@ -1,9 +1,3 @@
-# Web3 Operator Handbook
-
-# Contents
-- [Introduction](#introduction)
-- [About the Author](#about-the-author)
-
 # Introduction
 
 Know thyself.
