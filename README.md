@@ -7,6 +7,10 @@ If you see something that is missing or needs revision or elaboration, please fe
 
 Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to discuss and find community. Alternatively, please email us at web3operator@proton.me
 
+# Audience
+1. Founders building crypto startups
+2. Operators building in crypto
+
 # Broad Outline
 1. Web3 Primer - Why to Build?
 2. Navigating - What to Build?
