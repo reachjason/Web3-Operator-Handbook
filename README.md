@@ -5,7 +5,7 @@ New updates are constantly pushed, please feel free to star or watch the reposit
 
 If you see something that is missing or needs revision or elaboration, please feel free to add issues or submit pull requests.
 
-Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to discuss and find community. Email us at web3operator@proton.me
+Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to discuss and find community. Alternatively, please email us at web3operator@proton.me
 
 # Broad Outline
 1. Web3 Primer - Why to Build?
