@@ -1,11 +1,11 @@
 # Web3 Operator Handbook
 This repository contains notes from 100s of successful operators in crypto as well as best practices across the industry that I am in the process of pushing from personal Drive to here.
 
-New updates are constantly pushed
+New updates are constantly pushed, please feel free to star or watch the repository.
 
 If you see something that is missing or needs revision or elaboration, please feel free to add issues or submit pull requests.
 
-Here's the link to the [Web3 Operator Community](https://t.me/web3operator).
+Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to discuss and find community. Email us at web3operator@proton.me
 
 # Broad Outline
 1. Web3 Primer - Why to Build?
@@ -22,6 +22,7 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator).
 + Web3 Primer
   + History
   + Why Web3 matters?
+  + Complexity
   + Crash Course
   + Tokens
 + Why build in crypto?
@@ -34,17 +35,24 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator).
   + Self-custody
 + Fundraising
   + Managing Investors
-+ Community Building
+  + Crypto VCs
+  + SAFTs & Token Warrants
++ Building Community
+  + Local
+  + Ethos
+  + Traditions
+  + Playbooks
 + Breaking into Crypto
-+ Managing Teams
++ Managing Your Startup
   + Staying Abreast
   + Leadership Principles
   + Decision Making
   + Remote Management
   + Choosing Work Stacks
-  + Quarterly Plotting
-  + Setting a Compelling Vision
-  + DAOs
+  + Quarterly Reporting
+  + Radical Transparency
+  + Building a Compelling Vision
+  + DAOs - Exit to Community
 + Scaling
   + Board of Directors
   + Annual Letter
@@ -57,21 +65,41 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator).
   + Grants vs In house
   + Navigating PMF in Crypto
   + Metrics
++ User Experience
 + Brand Building
+  + Company Brand
   + Elevating from Tribalism
   + Narrative Building
   + Naming Things
+  + Personal Brand Building
+  + Social Presence
+  + Tone of Voice
 + Events
 + Communication
+  + Choosing Platforms
+  + Crisis Management
+  + Story Telling
+  + Frameworks
 + Navigating Legal Landscape
+  + The complexity
+  + Picking a Firm
 + Ecosystem
+  + Composability
+  + Partnerships
+  + Hiring Playbook
+  + Self Serve
+  + Building Programs
 + People
   + Hiring
   + Recruitment
   + Onboarding
   + Offboarding
+  + Compensation & Benefits
+  + Leveling
+  + Managing Incentive
 + Growth
   + Expansion Strategies
+  + Hiring Playbook
 + Grants
   + Program Playbook
   + Allocator Mindset
@@ -79,6 +107,9 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator).
   + Forecasting
   + Bonus: How to grants?
 + Giving Back
+  + To Community
+  + To Open Source Parents
+  + To the World
 + Building a Base Layer
   + Protocol Sustainability
 + Building a DApp
@@ -86,8 +117,11 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator).
   + NFTs
   + DeFi
   + Category Definers
-+ Developer Persona
++ The Developer Persona
   + Developer Relations
+    + Hiring
+    + What they do?
+  + Measuring Success
 + Managing Open Source
 + Selling to Enterprise  
 + Product Led Growth
@@ -115,4 +149,4 @@ If you know how to make a pull request to contribute a fix, please write the cor
 Please redistribute, make copies or changes. Don't resell, try and keep my name/attribution attached, and please keep future versions open under a similar/the same license.
 
 # Source
-The book's source code is what is in this repository.
+The book's source code is what is in this repository. If you want to stay abreast, star or watch this repository.
