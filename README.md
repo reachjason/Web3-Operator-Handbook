@@ -7,11 +7,20 @@ If you see something that is missing or needs revision or elaboration, please fe
 
 Here's the link to the [Web3 Operator Community](https://t.me/web3operator).
 
+# Broad Outline
+1. Web3 Primer - Why to Build?
+2. Navigating - What to Build?
+3. Building - How to Build?
+4. Selling - How to Sell?
+5. Scaling - How to Grow?
+6. Best Practices - Invent the wheel less
+
 # Chapters
 + [Introduction](https://github.com/reachjason/Web3-Operator-Handbook/blob/main/Web3OperatorHandbook.md)
   + Introduction
   + Outline
 + Web3 Primer
+  + History
   + Why Web3 matters?
   + Crash Course
   + Tokens
@@ -51,6 +60,7 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator).
 + Brand Building
   + Elevating from Tribalism
   + Narrative Building
+  + Naming Things
 + Events
 + Communication
 + Navigating Legal Landscape
