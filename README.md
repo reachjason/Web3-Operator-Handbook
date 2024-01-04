@@ -8,8 +8,9 @@ If you see something that is missing or needs revision or elaboration, please fe
 Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to discuss and find community. Alternatively, please email us at web3operator@proton.me
 
 # Audience
-1. Founders building crypto startups
-2. Operators building in crypto
+1. Crypto founders looking to optimize and scale
+2. Operators building in crypto looking to accelerate
+3. People looking to break in and move fast
 
 # Broad Outline
 1. Web3 Primer - Why to Build?
