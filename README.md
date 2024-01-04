@@ -115,6 +115,7 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to d
   + Tracking
   + Forecasting
   + Bonus: How to grants?
++ Finances
 + Giving Back
   + To Community
   + To Open Source Parents
