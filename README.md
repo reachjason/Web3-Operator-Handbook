@@ -30,7 +30,11 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to d
   + Crash Course
   + Tokens
 + Why build in crypto?
-+ Layers of Operation
++ Layers & Stakeholders
+  + Base
+  + Dapps
+  + Services
+  + Infrastructure
 + Tokenomics
   + Managing Tokens
   + Buy backs
@@ -62,11 +66,6 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to d
   + Board of Directors
   + Annual Letter
   + Exit to Community
-+ Layers & Stakeholders
-  + Base
-  + Dapps
-  + Services
-  + Infrastructure
 + Engineering
 + Product
   + Shipping
