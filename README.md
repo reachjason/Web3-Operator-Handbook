@@ -1,5 +1,5 @@
 # Web3 Operator Handbook
-This repository contains notes from conversations with 100s of successful operators and studying several successful projects in crypto.
+This repository contains notes from conversations with 100s of successful operators and studying several successful projects in crypto that has created over $100B in value. I've spent over 12,000 hours building in crypto and studying different things that work. We thought we should create a body of content that you can use to navigate off of.
 
 New updates are constantly pushed, please feel free to star or watch the repository. I am in the process of pushing from personal Drive to here.
 
