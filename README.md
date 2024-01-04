@@ -143,6 +143,7 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to d
 + Resources
   + Templates
   + Checklists
+  + Frameworks
 
 # Contributing
 We appreciate the love and support of the community that made putting this together possible.
