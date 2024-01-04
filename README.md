@@ -129,6 +129,7 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to d
   + Stablecoin
   + NFTs
   + DeFi
+  + ZK
   + Category Definers
 + The Developer Persona
   + Developer Relations
