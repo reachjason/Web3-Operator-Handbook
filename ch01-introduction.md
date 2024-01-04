@@ -18,17 +18,17 @@ For the sake of this book, here’s a couple of things I want to share as we beg
 
 Crypto as a market is huge. With over 1T in market cap. Which falls in the same ball park as [Consumer Goods](https://companiesmarketcap.com/consumer-goods/largest-consumer-goods-companies-by-market-cap/) and [Telecommunications](https://companiesmarketcap.com/telecommunication/largest-telecommunication-companies-by-market-cap/)
 
-![market-cap_20130429_20231230_(Coinmarketcap).jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/559d975b-8d3b-4b91-be2c-b8362958c681/66e985e8-3416-4f29-a1fa-77596ddab33a/market-cap_20130429_20231230_(Coinmarketcap).jpeg)
+![image](https://github.com/reachjason/Web3-Operator-Handbook/assets/23431890/7a923ab7-cc68-4e58-827e-69ed37297e36)
 
-![volume-24h_20130429_20231230_(Coinmarketcap).jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/559d975b-8d3b-4b91-be2c-b8362958c681/002b7554-1701-4e4e-b5a8-830eb3b07059/volume-24h_20130429_20231230_(Coinmarketcap).jpeg)
+![image](https://github.com/reachjason/Web3-Operator-Handbook/assets/23431890/c2ef4231-df9b-4c5d-966a-0c3d38a15388)
 
 Source: https://coinmarketcap.com/charts/
 
-![Screenshot 2023-12-29 at 12.20.59 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/559d975b-8d3b-4b91-be2c-b8362958c681/61c6ffe9-1f2b-43b4-9722-019f3558193a/Screenshot_2023-12-29_at_12.20.59_PM.png)
+![image](https://github.com/reachjason/Web3-Operator-Handbook/assets/23431890/aa918da3-ea40-4fe1-ab5c-229b12ef1303)
 
 Source: https://companiesmarketcap.com/consumer-goods/largest-consumer-goods-companies-by-market-cap/
 
-![Screenshot 2023-12-29 at 12.21.30 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/559d975b-8d3b-4b91-be2c-b8362958c681/bde1d254-79da-48c2-a183-b4ba00e8acd0/Screenshot_2023-12-29_at_12.21.30_PM.png)
+![image](https://github.com/reachjason/Web3-Operator-Handbook/assets/23431890/a97c78bc-3df8-4003-8273-c5bfd42b7e37)
 
 Source: https://companiesmarketcap.com/telecommunication/largest-telecommunication-companies-by-market-cap/
 
@@ -41,11 +41,11 @@ In a big way, this piece of work is targeted toward solving for the latter.
 
 Regardless of where you are on your spectrum of knowledge in crypto, this guide has got you.
 
-![Screenshot 2023-12-29 at 1.57.10 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/559d975b-8d3b-4b91-be2c-b8362958c681/ee6fe12b-120d-4485-b6a6-c7e4c3acae85/Screenshot_2023-12-29_at_1.57.10_PM.png)
+![image](https://github.com/reachjason/Web3-Operator-Handbook/assets/23431890/12746e37-d3d1-44e9-b7f6-34c962f4286a)
 
 There is a parallel often drawn between the internet and web3. The internet is well seasoned. A popular video that shows a popular news show in 1994 ridiculing the internet called “What is the Internet Anyway?”, however, look at where we are now. It’s hard to talk about the magnitude of growth the internet has experienced.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/559d975b-8d3b-4b91-be2c-b8362958c681/a47e2bb5-265a-4c7b-b0db-0c535266a4ae/Untitled.png)
+![image](https://github.com/reachjason/Web3-Operator-Handbook/assets/23431890/c722eb6d-75c5-4aaa-bc0a-30d101e75ed0)
 
 Source: https://www.youtube.com/watch?v=95-yZ-31j9A
 
