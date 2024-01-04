@@ -16,7 +16,7 @@ For the sake of this book, here’s a couple of things I want to share as we beg
 - Founder or Operator are used in a common context to denote a person or team responsible for executing the day-to-day activities and strategies necessary to drive growth and achieve the objectives of the startup
 - Some of the chapters assume that the product you’re building will involve a token.
 
-Crypto as a market is huge. With over 1T in market cap. Which falls in the same ball park as [Consumer Goods](https://companiesmarketcap.com/consumer-goods/largest-consumer-goods-companies-by-market-cap/) and [Telecommunications](https://companiesmarketcap.com/telecommunication/largest-telecommunication-companies-by-market-cap/)
+**Crypto as a market is huge. With over 1T in market cap. Which falls in the same ball park as [Consumer Goods](https://companiesmarketcap.com/consumer-goods/largest-consumer-goods-companies-by-market-cap/) and [Telecommunications](https://companiesmarketcap.com/telecommunication/largest-telecommunication-companies-by-market-cap/)**
 
 ![image](https://github.com/reachjason/Web3-Operator-Handbook/assets/23431890/7a923ab7-cc68-4e58-827e-69ed37297e36)
 
