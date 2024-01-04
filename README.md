@@ -29,18 +29,19 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to d
   + Why Web3 matters?
   + Complexity
   + Tokens
+  + Decentralization
+  + Self-custody
 + Why build in crypto?
 + Layers & Stakeholders
   + Base
   + Dapps
   + Services
   + Infrastructure
-+ Tokenomics
++ Business Models
+  + Tokenomics
   + Managing Tokens
   + Buy backs
-+ Building a crypto startup
-  + Decentralization
-  + Self-custody
+  + Protocol Design
 + Fundraising
   + Managing Investors
   + Crypto VCs
@@ -62,7 +63,7 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to d
   + Radical Transparency
   + Building a Compelling Vision
   + DAOs - Exit to Community
-+ Scaling
++ Scaling & GTM
   + Board of Directors
   + Annual Letter
   + Exit to Community
@@ -85,11 +86,14 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to d
 + Events
 + Communication
   + Choosing Platforms
+  + Piching your startup
   + Crisis Management
   + Story Telling
   + Frameworks
-+ Navigating Legal Landscape
+  + Launching & Marketing
++ Legal
   + The complexity
+  + Tokens
   + Picking a Firm
 + Ecosystem
   + Composability
