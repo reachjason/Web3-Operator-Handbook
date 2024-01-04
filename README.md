@@ -126,10 +126,11 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to d
 + Building a Base Layer
   + Protocol Sustainability
 + Building a DApp
-  + Stablecoin
-  + NFTs
-  + DeFi
-  + ZK
+  + Understanding building blocks
+    + Stablecoin
+    + NFTs
+    + DeFi
+    + ZK
   + Category Definers
 + The Developer Persona
   + Developer Relations
