@@ -1,5 +1,5 @@
 # Web3 Operator Handbook
-Web3 Operator Handbook contains actionable strategies from veterans in crypto. This repository contains notes from conversations with 100s of successful operators and studying several successful projects in crypto that has created over $100B in value. I've spent over 12,000 hours building in crypto and studying different things that work and don't work. We thought creating this body of content might help navigate building successful crypto companies.
+Web3 Operator Handbook contains actionable strategies from veterans in crypto. This repository contains notes, frameworks and resources from conversations with 100s of successful operators and studying several successful projects in crypto that has created over $100B in value. I've spent over 12,000 hours building in crypto and studying different things that work and don't work. We thought creating this body of content might help navigate building successful crypto companies.
 
 New updates are constantly pushed, please feel free to star or watch the repository or [join our mailing list](https://forms.gle/CMyvDuE5Rc7avX7G6). I am in the process of pushing from personal Drive to here.
 
