@@ -4,7 +4,7 @@ Know thyself.
 
 This is a maxim that dates back to ancient Greece. The Oracle of Delphi was a religious sanctuary dedicated to the Greek god Apollo, where a priestess, known as the Pythia, delivered prophecies. The phrase "γνῶθι σεαυτόν" (gnōthi seauton), meaning "know thyself," was inscribed in the forecourt of the Temple of Apollo at Delphi. The maxim urges self-awareness and understanding of one's own nature, limitations, and potential. It was considered fundamental to personal wisdom and growth in Greek philosophy.
 
-Somehow, time and again, we find ourselves in the same cycles committing similar mistakes to our predecessors in the same positions. We evolve when we learn from others and that is the first goal of this body of content. We together attempt to distill knowledge from successful web3 operators here so as to enable fewer people to reinvent the wheel.
+Somehow, time and again, we find ourselves in the same cycles committing similar mistakes to our predecessors in the same positions. We evolve when we learn from others and that is the first goal of this body of content. We together attempt to distill knowledge from successful web3 operators here so as to make sure no one has to reinvent the wheel.
 
 Secondly, web3 has presented a sense of non-linearity for careers across the world. In democratising access to industry and capital, there are ample non-traditional success stories. With people training hard, and finding their footing in this evolving wild wild west. Through this body of content, we want to enable more high school students from villages across Indonesia to ship meaningful crypto products and offer level ground for people to start in crypto.
 
