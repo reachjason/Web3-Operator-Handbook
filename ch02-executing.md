@@ -14,7 +14,7 @@ As simple as that sounds, crypto teams tend to drop the ball on this more often 
 
 ## How to execute?
 
-It’s important to set a coherent vision that people can get behind. My hunch is, given how fast crypto is moving, thinking too far into the future may be pointless. Your vision for your company should be far enough your community can aspire to get to and short enough that it feels like individual steps your team takes feel like they’re in the right direction.
+It’s important to set a coherent vision that people can get behind. My hunch is, given how fast crypto is moving, thinking too far into the future may be pointless. Your vision for your company should be far enough your community can aspire to get to and short enough that it feels like individual steps your team takes feel like they’re in the right direction. Your vision may change, your team may grow - continue to ship the same process ad infinitum.
 
 ## 3 Year Vision
 
@@ -79,7 +79,8 @@ You have 4 types of meetings:
 1. Annual planning meeting - where are we headed?
 2. Quarterly meeting - what did we do right? what are we doing next?
 3. Weekly meeting - how are we tracking toward the goal?
-4. 1:1 meeting - how are you doing? let’s solve an issue
+4. 1:1 Meeting - how are you doing? let’s solve an issue
+5. All Hands / Community Call
 
 All other time is used to:
 
@@ -92,3 +93,9 @@ Use meetings and communication to the team and community to celebrate wins and p
 ## Leveraging Data
 
 Data is key to ensure that you’re moving at the pace your organization needs. Take time to design and develop a dashboard that captures all the key performance indicators that help you track toward the goal. It is well worth it, if you know it opens doors. Dune and a few other tools are a great way to do this in the open for on-chain data. Make sure the data is accessible on all devices. Data will allow you to not fly blind.
+
+## Writing
+
+It is important to implement a very strong writing culture. Since most teams are fully remote, writing is the best way to communicate unambiguously. Share standard templates and make sure information is organized in a way that is easy to find.
+
+Document every single process in your company. Does this allows you to simplify and scale more easily. Eg: how to ship? how to choose a partner to work with?
