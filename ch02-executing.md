@@ -20,7 +20,7 @@ It’s important to set a coherent vision that people can get behind. My hunch i
 
 I recommend starting with a 3 year vision with your leadership team. What do you see 3 years into the future, write it down in the following template:
 
-**On date, our company will have maybe X TVL, profit, users, partners.**
+**On date, our company will have maybe X TVL/profit/users/partners.**
 
 Be specific and visualize vividly what this looks like and feels like. Write that down too.
 
@@ -32,7 +32,7 @@ Visualization is a hard exercise, and especially so in decentralized teams. Howe
 
 You can use the following template:
 
-**On date, our company will have maybe X TVL, profit, users, partners.**
+**On date, our company will have maybe X TVL/profit/users/partners.**
 
 We will measure the following 8 things to by accountably measuring growth week on week to get to our goal:
 
@@ -50,7 +50,7 @@ After an annual planning session, communicate to the whole team and your communi
 
 ## Quarterly Planning
 
-Now we move into territory that more immediate and tactical. Here’s where you decide on rocks that your company takes on in the quarter. This exercise allows you to focus on what you’re doing so you don’t FOMO into biting off more than what you can chew. Make sure to assign one owner to each that will be accountable.
+Now we move into territory that more immediate and tactical. Here’s where you decide on rocks that your company takes on in the quarter. This exercise allows you to focus on what you’re doing so you don’t FOMO into biting off more than what you can chew. Make sure to assign one owner to each that will be accountable. Assign to each person not more than 3-4 rocks. It allows them to focus. It is ideal for these rocks to be clear and specific and mutually aligned based on the goal.
 
 Here are a few examples of rocks:
 
