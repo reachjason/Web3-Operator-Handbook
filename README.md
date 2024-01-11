@@ -53,7 +53,7 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to d
   + Traditions
   + Playbooks
 + Breaking into Crypto
-+ Managing Your Startup
++ [Managing Your Startup](https://github.com/reachjason/Web3-Operator-Handbook/blob/main/ch02-executing.md)
   + Staying Abreast
   + Leadership Principles
   + Decision Making
