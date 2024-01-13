@@ -16,6 +16,16 @@ As simple as that sounds, crypto teams tend to drop the ball on this more often 
 
 It’s important to set a coherent vision that people can get behind. My hunch is, given how fast crypto is moving, thinking too far into the future may be pointless. Your vision for your company should be far enough your community can aspire to get to and short enough that it feels like individual steps your team takes feel like they’re in the right direction. Your vision may change, your team may grow - continue to ship the same process ad infinitum.
 
+## Your Core Action
+
+Think about what that one action or metric that characterizes it all for your company and moves the needle for your business. It can be different things based on what layer of the stack you operate. Think of this as the pulse of your business.
+
+For base layers, such as layer 1 and scaling solutions, it could be transactions.
+For DeFi applications, it could be Total Value Locked (TVL).
+For Wallets, it could active users.
+For Infrastucture providers, it could be revenue.
+For Service Companies, it could be profit/employee.
+
 ## 3 Year Vision
 
 I recommend starting with a 3 year vision with your leadership team. What do you see 3 years into the future, write it down in the following template:
@@ -98,4 +108,10 @@ Data is key to ensure that you’re moving at the pace your organization needs. 
 
 It is important to implement a very strong writing culture. Since most teams are fully remote, writing is the best way to communicate unambiguously. Share standard templates and make sure information is organized in a way that is easy to find.
 
+## Processes
+
 Document every single process in your company. Does this allows you to simplify and scale more easily. Eg: how to ship? how to choose a partner to work with?
+
+The second step after you've documented and simplified is to make sure it is followed each time. In Amazon, it's a common saying: Blame the Process, Not the People.
+
+This allows you two flexibilities, to step away as needed (less people dependence), quicker ramp up (more productivity).
