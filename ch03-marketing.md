@@ -18,26 +18,31 @@ We will dive into each of these.
 ### Who?
 
 Know who your audience is. Pick a niche that is specific. Going for a broad niche like founders or does not help as you'll land too broad. Ways that you can pick a niche is through demographic, age, industry, likes, dislikes, etc. Make sure that there is a target persona that could be your buyer and/or user. This helps you think about why they might need this content.
+
 Eg: ZK Developers
 
 ### Why?
 
 Why are you writing this body of content? It could have one or more of your impacts. These goals could be: awareness, consideration, conversion and loyalty.
-Eg: Conversion to my new stack
+
+Eg: Conversion to my stack
 
 ### Where?
 
 This decision refers to the content platforms and channels that you have. These could be owned or external. To start out, it's great to focus on 2 platforms and then level up as you understand what works and what doesn't.
+
 Eg: Twitter Threads and my startup's blog
 
 ### What?
 
 What specific content categories would you experiment with? These could be long form, infographics, lists, how-tos, etc. Find out what your audience most resonates with.
+
 Eg: Infographics, How-tos
 
 ### How?
 
 This refers to the operating system you'll use to write, ship and measure success of your content. This includes your process, tools and system of shipping content. It's good to have a vision and specific goals so that you can get to that end state soon.
+
 Eg: Ship every Sunday at 9 PM using Typefully to draft and schedule.
 
 With these questions answered, you're armed with the capability to ship content for your web3 startup.
