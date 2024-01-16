@@ -7,7 +7,7 @@ If you see something that is missing or needs revision or elaboration, please fe
 
 Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to discuss and find community. Alternatively, please email us at web3operator@proton.me
 
-# Audience
+# Who this book is for?
 1. Crypto founders looking to optimize and scale to being valuable companies
 2. Operators building in crypto looking to accelerate their value
 3. People looking to break in to crypto and move fast
