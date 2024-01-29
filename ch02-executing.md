@@ -10,7 +10,7 @@ They simply:
 
 And they do this ad infinitum.
 
-As simple as that sounds, crypto teams tend to drop the ball on this more often than not. Why is this the case? It’s often perceived that following web2-esque methods may not work for web3, but trust me, some of the best teams in the space embrace the best of web2 in order to win.
+As simple as that sounds, crypto teams tend to drop the ball on this more often than not. Why is this the case? It’s often perceived that following web2-esque methods may not work for web3, but trust me, some of the best teams in the space embrace winning methodologies and transform business output for the company.
 
 ## How to execute?
 
