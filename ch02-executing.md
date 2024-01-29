@@ -36,7 +36,7 @@ Be specific and visualize vividly what this looks like and feels like. Write tha
 
 Why is this such a powerful exercise? There’s a couple of reasons why starting here is quite powerful. It helps you, your team and community with painting a picture for where you’re headed and opens doors for them if they want to join. This significantly increases the chances that this will become a reality. This also forms a basis for a workback plan.
 
-Visualization is a hard exercise, and especially so in decentralized teams. However, allowing thoughts to run free allows you to really dream up a possible reality. Once you’ve aligned and locked in on what this vision is, keep it handy.
+Visualization is a hard exercise, and especially so in decentralized teams. However, allowing thoughts to run free allows you to really dream up a possible reality. Once you’ve aligned and locked in on what this vision is, keep it handy. 3 years in crypto is a lot of time, but sur
 
 ## 1 Year Plan
 
@@ -44,12 +44,12 @@ You can use the following template:
 
 **On date, our company will have maybe X TVL/profit/users/partners.**
 
-We will measure the following 8 things to by accountably measuring growth week on week to get to our goal:
+**We will measure the following x things to by accountably measuring growth week on week to get to our goal:**
 
 1. Twitter AMAs - 10,000
 2. Partners signed - 25
 
-**Our company’s** goals for the next 365 days:
+**Our company’s goals for the next 365 days:**
 
 1. We will get to 50,000 Twitter followers.
 2. We will close on 3 enterprise partnerships leading to 100,000 new users.
