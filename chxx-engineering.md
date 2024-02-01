@@ -9,7 +9,7 @@ Establish cadence and forum for:
 2. Shipping
 3. Saying that you've shipped
 
-Try to make this a agency driven pull process, rather than one where you have to keep checking in.
+Try to make this an agency driven pull process, rather than one where you have to keep checking in.
 
 ### Have an Internal "How We Work?" Doc
 
