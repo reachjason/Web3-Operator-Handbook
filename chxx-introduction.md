@@ -18,24 +18,17 @@ For the sake of this book, here’s a couple of things I want to share as we beg
 
 **Crypto as a market is huge. With over 1T in market cap. Which falls in the same ball park as [Consumer Goods](https://companiesmarketcap.com/consumer-goods/largest-consumer-goods-companies-by-market-cap/) and [Telecommunications](https://companiesmarketcap.com/telecommunication/largest-telecommunication-companies-by-market-cap/)**
 
-![image](https://github.com/reachjason/Web3-Operator-Handbook/assets/23431890/7a923ab7-cc68-4e58-827e-69ed37297e36)
-
-![image](https://github.com/reachjason/Web3-Operator-Handbook/assets/23431890/c2ef4231-df9b-4c5d-966a-0c3d38a15388)
+![image](https://github.com/reachjason/Web3-Operator-Handbook/assets/23431890/832a6f3a-334f-4b62-b08c-e204b2191f1b)
 
 Source: https://coinmarketcap.com/charts/
-
-![image](https://github.com/reachjason/Web3-Operator-Handbook/assets/23431890/aa918da3-ea40-4fe1-ab5c-229b12ef1303)
-
 Source: https://companiesmarketcap.com/consumer-goods/largest-consumer-goods-companies-by-market-cap/
-
-![image](https://github.com/reachjason/Web3-Operator-Handbook/assets/23431890/a97c78bc-3df8-4003-8273-c5bfd42b7e37)
-
 Source: https://companiesmarketcap.com/telecommunication/largest-telecommunication-companies-by-market-cap/
 
-This tells us two things:
+This tells us 3 things:
 
 1. The industry is worth paying attention to on the outside
-2. As operators building this industry we need to build something of substance
+2. As operators building this industry need to break out of speculation and build something of substance
+3. The market capitalization is for once not a lagging indicator of true value
 
 In a big way, this piece of work is targeted toward solving for the latter.
 
