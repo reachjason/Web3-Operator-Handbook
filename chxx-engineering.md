@@ -17,7 +17,8 @@ Use this document as a way to answer all questions that span the breadth of engi
 
 Things to cover:
 
-- Guiding principles - eg: blame the process, integrity etc
+- Guiding principles - eg: blame the process, integrity, do what it takes etc
+- Why this matters?
 - Organization Structure of the "Build" Organization with accountabilities
 - Programming Languages
 - How you version control
@@ -28,10 +29,11 @@ Things to cover:
 - Managing keys
 - Mobile responsiveness
 - API - Rest, Graph
-- Access to tools - cloud and dev SaaS
+- Access to tools - communication, cloud and SaaS - what and why?
 - Coding Standards - quality, message formats, linting
-- How we communicate?
-- How we ship? Vision to product, people management
+- How we communicate? Internal, external
+- How we ship? Vision to product, people management, cadences
+- How we meet?
 - Engineering Boards
 - Ticketing Playbook - Bugs / Ideas
 - Measuring success
@@ -39,12 +41,14 @@ Things to cover:
 - Incident handling - Warroom, Root Cause Analysis (RCA), documentation
 - Maintenance cycles
 - CI/CD - shipping cadence
+- DevOps
 - Retrospectives
 - Performance management
 - Technical documentation (spec, dev docs, PRD)
 - Numbers
 - Leveraging Grants
 - Resource management - core, contractor
+- Shipping Remotely
 
 ### Aligning Contributors
 
