@@ -19,6 +19,7 @@ Things to cover:
 
 - Guiding principles - eg: blame the process, integrity, do what it takes etc
 - Why this matters?
+- Engineering processes
 - Organization Structure of the "Build" Organization with accountabilities
 - Programming Languages
 - How you version control
