@@ -18,10 +18,12 @@ For the sake of this book, here’s a couple of things I want to share as we beg
 
 **Crypto as a market is huge. With over 1T in market cap. Which falls in the same ball park as [Consumer Goods](https://companiesmarketcap.com/consumer-goods/largest-consumer-goods-companies-by-market-cap/) and [Telecommunications](https://companiesmarketcap.com/telecommunication/largest-telecommunication-companies-by-market-cap/)**
 
-![image](https://github.com/reachjason/Web3-Operator-Handbook/assets/23431890/832a6f3a-334f-4b62-b08c-e204b2191f1b)
+![image](https://github.com/reachjason/Web3-Operator-Handbook/assets/23431890/2187ccf5-c703-4b5c-9ae6-389e72d117b0)
 
 Source: https://coinmarketcap.com/charts/
+
 Source: https://companiesmarketcap.com/consumer-goods/largest-consumer-goods-companies-by-market-cap/
+
 Source: https://companiesmarketcap.com/telecommunication/largest-telecommunication-companies-by-market-cap/
 
 This tells us 3 things:
