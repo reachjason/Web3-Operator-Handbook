@@ -1,4 +1,4 @@
-# Executing
+# Winning
 
 Crypto companies often fall short on delivery of their vision. The few that successfully chart out vision and successfully execute on it have something in common.
 
