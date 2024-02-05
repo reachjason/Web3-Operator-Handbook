@@ -27,11 +27,11 @@ Things to cover:
 - Reading List / Onboarding Guides
 - Standards for naming, data processing, security, backups
 - Auth
-- Managing keys
+- OpSec (Operational Security) - Managing keys, on-chain, off-chain
 - Mobile responsiveness
 - API - Rest, Graph
 - Access to tools - communication, cloud and SaaS - what and why?
-- Coding Standards - quality, message formats, linting
+- Coding Standards - quality, message formats, linting, SEO, accessibility
 - How we communicate? Internal, external
 - How we ship? Vision to product, people management, cadences
 - How we meet?
@@ -45,6 +45,8 @@ Things to cover:
 - DevOps
 - Retrospectives
 - Performance management
+- Analytics - Data & Product, systems monitoring
+- Checklists
 - Technical documentation (spec, dev docs, PRD)
 - Numbers
 - Leveraging Grants
