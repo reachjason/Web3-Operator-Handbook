@@ -21,7 +21,7 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to d
 6. Best Practices - Invent the wheel less
 
 # Chapters
-+ [Introduction](https://github.com/reachjason/Web3-Operator-Handbook/blob/main/ch01-introduction.md)
++ [Introduction](https://github.com/reachjason/Web3-Operator-Handbook/blob/main/chxx-introduction.md)
   + Introduction
   + Outline
 + Web3 Primer
@@ -53,7 +53,7 @@ Here's the link to the [Web3 Operator Community](https://t.me/web3operator) to d
   + Traditions
   + Playbooks
 + Breaking into Crypto
-+ [Managing Your Startup](https://github.com/reachjason/Web3-Operator-Handbook/blob/main/ch02-executing.md)
++ [Managing Your Startup](https://github.com/reachjason/Web3-Operator-Handbook/blob/main/chxx-executing.md)
   + Staying Abreast
   + Leadership Principles
   + Decision Making
